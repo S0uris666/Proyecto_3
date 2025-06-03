@@ -97,7 +97,9 @@ html {
 }
 
 /* Footer */
-
+.bg-cafe{
+    background-color: #211104;
+}
 .img-recorte-superior{
    
   height: 450px;               /* Altura del "marco" */
