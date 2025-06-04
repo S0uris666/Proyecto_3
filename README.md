@@ -1,6 +1,6 @@
 # ☕ Petra Café - Landing Page
 
-Bienvenido al repositorio del proyecto 3 para el bootcamp UDD de **Petra Café**, una landing page desarrollada en HTML, CSS y Bootstrap. Esta página busca transmitir la esencia del café de especialidad, mostrando productos, historia, marcas asociadas, formulario de contacto y testimonios.
+Bienvenido al repositorio del proyecto 3 para el bootcamp UDD. **Petra Café**, una landing page desarrollada en HTML, CSS y Bootstrap. Esta página busca transmitir la esencia del café de especialidad, mostrando productos, historia, marcas asociadas, formulario de contacto y testimonios.
 
 ## 📸 Vista Previa
 
@@ -8,7 +8,7 @@ El diseño incluye una estructura visual moderna que cuenta con:
 
 - Encabezado con logo y menú de navegación
 - Sección de presentación con llamada a la acción
-- Carrusel de marcas asociadas
+- Marcas asociadas
 - Galería de productos con estilo de tarjetas interactivas
 - Sección "Sobre Nosotros"
 - Formulario de contacto con imagen
