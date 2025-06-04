@@ -55,6 +55,6 @@ Diagrama_landing_boostrap.jpg # Diagrama landing boostrap
 
 Este esquema sirvió como guía para la estructura visual y de contenido.
 
-🚀 Despliegue
+## 🚀 Despliegue
 
 Puedes ver la demo activa aquí: [https://petracafe.netlify.app](https://petracafe.netlify.app)
