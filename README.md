@@ -57,4 +57,4 @@ Este esquema sirvió como guía para la estructura visual y de contenido.
 
 🚀 Despliegue
 
-Puedes ver la demo activa aquí: [https://petracafe.netlify.app](https://tuusuario.github.io/petra-cafe-landing)
+Puedes ver la demo activa aquí: [https://petracafe.netlify.app](https://petracafe.netlify.app)
